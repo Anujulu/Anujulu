@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Your Name</h1>
+<h1 align="center">Hi 👋, I'm Izuabueke Davidson Anujulu</h1>
 <p align="center">
 <strong>Aspiring Cloud Engineer • Software Developer • DevOps Enthusiast</strong>
 </p>
@@ -15,10 +15,10 @@ building real-world projects, and continuously improving my technical skills.
 - 📫 Reach me at **your-email@example.com**
 ---
 <p align="center">
-<a href="https://github.com/yourusername">
+<a href="https://github.com/Anujulu">
 <img src="https://skillicons.dev/icons?i=github" height="45"/>
 </a>
-<a href="https://linkedin.com/in/yourusername">
+<a href="https://linkedin.com/in/izuabueke">
 <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 <a href="https://twitter.com/yourusername">
@@ -27,7 +27,7 @@ building real-world projects, and continuously improving my technical skills.
 </p>
 ---
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,javascript,python,nodejs,git,github,linux,vscode,docker,aws" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,python,nodejs,git,github,linux,vscode,docker,aws,Azure,GCP" />
 </p>
 ---
 A short description of your first project.
@@ -42,9 +42,9 @@ A short description of your third project.
 > Add your completed certifications below as you earn them.
 | Certification | Issuing Organization | Date | Credential |
 |---------------|----------------------|------|------------|
-| Microsoft Azure Fundamentals (AZ-900) | Microsoft | Jan 2026 | [View Credential](#) |
-| AWS Cloud Practitioner | AWS | Feb 2026 | [View Credential](#) |
-| Google Cloud Digital Leader | Google | Mar 2026 | [View Credential](#) |
+| Microsoft Azure Fundamentals (AZ-900) | Microsoft | Nov 2025 | [View Credential](#) |
+| FinOps Certified Practitioner | The Linux Foundation | Oct 2025 | [View Credential](#) |
+| Multicloud Network Associate |Aviatrix| Mar 2026 | [View Credential](#) |
 | Kubernetes and Cloud Native Associate (KCNA) | CNCF | Apr 2026 | [View Credential](#) |
 | *(Add more here)* | | | |
 ---
