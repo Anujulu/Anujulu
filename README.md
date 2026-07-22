@@ -96,9 +96,7 @@ Production-ready Kubernetes deployments with Helm, Ingress, monitoring and GitOp
 
 </p>
 ---
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Anujulu"/>
-</p>
+<img src="https://streak-stats.demolab.com?user=Anujulu&theme=tokyonight&hide_border=true&border_radius=10"/>
 ---
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anujulu&theme=github-compact"/>
