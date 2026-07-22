@@ -113,31 +113,22 @@ Production-style Kubernetes deployments covering:
 
 ---
 
-# 📊 GitHub Analytics
-
 ## 📊 GitHub Analytics
 
 <p align="center">
 
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=Anujulu&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
+<img height="180"
+src="https://github-readme-stats.vercel.app/api?username=Anujulu&show_icons=true&theme=tokyonight"/>
 
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anujulu&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
-</p>
-
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Anujulu&theme=tokyonight&hide_border=true&border_radius=10"/>
+<img height="180"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anujulu&layout=compact&theme=tokyonight"/>
 
 </p>
 
 
 <p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anujulu&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com/?user=Anujulu&theme=tokyonight&hide_border=true"/>
 
 </p>
 ---
