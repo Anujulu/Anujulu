@@ -31,20 +31,20 @@ building real-world projects, and continuously improving my technical skills.
 </p>
 ---
 A short description of your first project.
-**Repository:** https://github.com/yourusername/project-one
+**Repository:** https://github.com/Anujulu/project-one
 ---
 A short description of your second project.
-**Repository:** https://github.com/yourusername/project-two
+**Repository:** https://github.com/Anujulu/project-two
 ---
 A short description of your third project.
-**Repository:** https://github.com/yourusername/project-three
+**Repository:** https://github.com/Anujulu/project-three
 ---
 > Add your completed certifications below as you earn them.
 | Certification | Issuing Organization | Date | Credential |
 |---------------|----------------------|------|------------|
-| Microsoft Azure Fundamentals (AZ-900) | Microsoft | Nov 2025 | [View Credential](#) |
-| FinOps Certified Practitioner | The Linux Foundation | Oct 2025 | [View Credential](#) |
-| Multicloud Network Associate |Aviatrix| Mar 2026 | [View Credential](#) |
+| Microsoft Azure Fundamentals (AZ-900) | Microsoft | Nov 2025 | [View Credential](https://www.credly.com/badges/8b7eb338-d57a-493b-b516-9cb67b49e91a/public_url) |
+| FinOps Certified Practitioner | The Linux Foundation | Oct 2025 | [View Credential](https://www.credly.com/badges/7da47419-676e-4a56-83ea-507337038694/) |
+| Multicloud Network Associate |Aviatrix| Aug 2025 | [View Credential](https://www.credly.com/badges/51431d3c-b180-4282-9b44-4f8a09758beb/public_url) |
 | Kubernetes and Cloud Native Associate (KCNA) | CNCF | Apr 2026 | [View Credential](#) |
 | *(Add more here)* | | | |
 ---
@@ -57,16 +57,16 @@ A short description of your third project.
 </p>
 ---
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=default"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Anujulu&show_icons=true&theme=default"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anujulu&layout=compact&theme=default"/>
 </p>
 ---
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=yourusername"/>
+<img src="https://streak-stats.demolab.com?user=Anujulu"/>
 </p>
 ---
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=github-compact"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anujulu&theme=github-compact"/>
 </p>
 ---
 - ✅ Build 10 real-world cloud projects
