@@ -6,14 +6,18 @@
 Welcome to my GitHub profile! I'm passionate about learning new technologies,
 building real-world projects, and continuously improving my technical skills.
 </p>
+
 ---
+
 - 🔭 I'm currently working on **Project Name**
 - 🌱 I'm currently learning **Technology**
 - 🤝 I'm looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Programming, Cloud, Linux, or DevOps**
 - 🎯 My goal is to become a **Cloud & DevOps Engineer**
-- 📫 Reach me at **your-email@example.com**
+- 📫 Reach me at **anujuludavidson@gmail.com**
+  
 ---
+
 <p align="center">
 <a href="https://github.com/Anujulu">
 <img src="https://skillicons.dev/icons?i=github" height="45"/>
