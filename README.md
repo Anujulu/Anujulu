@@ -32,15 +32,16 @@ building real-world projects, and continuously improving my technical skills.
 
 ---
 A short description of your first project.
-**Repository:** https://github.com/Anujulu/project-one
+[**Repository:**] (https://github.com/Anujulu/project-one)
 
 ---
 A short description of your second project.
-**Repository:** https://github.com/Anujulu/project-two
+[**Repository:**] (https://github.com/Anujulu/project-two)
 
 ---
 A short description of your third project.
-**Repository:** https://github.com/Anujulu/project-three
+[**Repository:**] (https://github.com/Anujulu/project-three)
+
 ---
 
 > Add your completed certifications below as you earn them.
