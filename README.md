@@ -35,9 +35,8 @@ building real-world projects, and continuously improving my technical skills.
 
 ---
 <p align="center">
-<img src="https://skillicons.dev/icons?ihtml,css,js,ts,react,nextjs,nodejs,python,bash,docker,kubernetes,terraform,azure,aws,gcp,firebase,git,github,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,python,bash,docker,kubernetes,terraform,azure,aws,gcp,firebase,git,github,linux,vscode" />
 </p>
-
 ---
 ### 🚀 CareerVoxa
 
