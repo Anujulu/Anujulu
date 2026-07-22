@@ -115,10 +115,12 @@ Production-style Kubernetes deployments covering:
 
 # 📊 GitHub Analytics
 
+## 📊 GitHub Analytics
+
 <p align="center">
 
 <img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=Anujulu&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+src="https://github-readme-stats.vercel.app/api?username=Anujulu&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
 
 <img height="180em"
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anujulu&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
@@ -135,10 +137,9 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anujulu&layo
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anujulu&theme=tokyo-night"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anujulu&theme=tokyonight"/>
 
 </p>
-
 ---
 
 # 🎯 Current Goals
