@@ -84,18 +84,6 @@ Production-ready Kubernetes deployments with Helm, Ingress, monitoring and GitOp
 ---
 
 
-  <a href="https://www.credly.com/badges/7da47419-676e-4a56-83ea-507337038694/" target="_blank">
-    <img src="images/finops.png" width="120" alt="FinOps Certified Practitioner" />
-  </a>
-
-  <a href="https://www.credly.com/badges/51431d3c-b180-4282-9b44-4f8a09758beb/public_url" target="_blank">
-    <img src="images/aviatrix.png" width="120" alt="Aviatrix Multicloud Network Associate" />
-  </a>
-</p>
-
----
-
-
 <p align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anujulu&show_icons=true&theme=tokyonight&hide_border=true"/>
