@@ -44,7 +44,7 @@ A short description of your third project.
 
 
 
-                                                             ## My certifications
+                                                            > ## **My certifications**
 
 
 Microsoft Azure Fundamentals (AZ-900) | Microsoft | Nov 2025 | [View Credential](https://www.credly.com/badges/8b7eb338-d57a-493b-b516-9cb67b49e91a/public_url) 
