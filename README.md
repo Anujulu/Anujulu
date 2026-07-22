@@ -42,13 +42,12 @@ A short description of your second project.
 A short description of your third project.
 [**Repository:**](https://github.com/Anujulu/project-three)
 
----
 
 
                                                              # My certifications
 
 
-| Microsoft Azure Fundamentals (AZ-900) | Microsoft | Nov 2025 | [View Credential](https://www.credly.com/badges/8b7eb338-d57a-493b-b516-9cb67b49e91a/public_url) 
+Microsoft Azure Fundamentals (AZ-900) | Microsoft | Nov 2025 | [View Credential](https://www.credly.com/badges/8b7eb338-d57a-493b-b516-9cb67b49e91a/public_url) 
 
 FinOps Certified Practitioner  | The Linux Foundation |  Oct 2025 | [View Credential](https://www.credly.com/badges/7da47419-676e-4a56-83ea-507337038694/) 
 
