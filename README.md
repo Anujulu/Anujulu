@@ -70,6 +70,17 @@ Multicloud Network Associate | Aviatrix | Aug 2025 | [View Credential](https://w
 <img src="images/google-cloud.png" width="120"/>
 </p>
 ---
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions)
+
+---
+
+
 <p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Anujulu&show_icons=true&theme=default"/>
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anujulu&layout=compact&theme=default"/>
