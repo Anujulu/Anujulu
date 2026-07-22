@@ -84,6 +84,7 @@ Production-ready Kubernetes deployments with Helm, Ingress, monitoring and GitOp
 
 
 ---
+
 <p align="center">
   <a href="https://www.credly.com/badges/8b7eb338-d57a-493b-b516-9cb67b49e91a/public_url" target="_blank">
     <img src="images/az900.png" width="120" alt="Microsoft Azure Fundamentals (AZ-900)" />
@@ -97,6 +98,7 @@ Production-ready Kubernetes deployments with Helm, Ingress, monitoring and GitOp
     <img src="images/aviatrix.png" width="120" alt="Aviatrix Multicloud Network Associate" />
   </a>
 </p>
+
 ---
 
 
