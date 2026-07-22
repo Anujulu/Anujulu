@@ -39,27 +39,42 @@ building real-world projects, and continuously improving my technical skills.
 </p>
 
 ---
-A short description of your first project.
-[**Weathee-App:**](https://github.com/Anujulu/weather-app-demo)
+### 🚀 CareerVoxa
+
+AI-powered career management platform featuring:
+
+- AI CV Writer
+- Interview Coach
+- Career Coach
+- Job Search
+- Recruiter Portal
+
+**Tech Stack**
+
+Next.js • Firebase • Google Cloud Run • Gemini • OpenAI
 
 ---
-A short description of your second project.
-[**nodejs-App:**](https://github.com/Anujulu/nodejs-devops-azure)
+Infrastructure automation using:
+
+- Terraform
+- Azure
+- Docker
+- GitHub Actions
+- CI/CD
 
 ---
-A short description of your third project.
-[**Repository:**](https://github.com/Anujulu/project-three)
+Production-ready Kubernetes deployments with Helm, Ingress, monitoring and GitOps.
 
 ---
 
 
-                                                          | Certification                         | Provider         | Date |
+                                  | Certification                         | Provider         | Date |
 
-                                                          | Microsoft Azure Fundamentals (AZ-900) | Microsoft        | 2025 |
+                                  | Microsoft Azure Fundamentals (AZ-900) | Microsoft        | 2025 |
                                                           
-                                                          | FinOps Certified Practitioner         | Linux Foundation | 2025 |
+                                  | FinOps Certified Practitioner         | Linux Foundation | 2025 |
                                                           
-                                                          | Aviatrix Multicloud Network Associate | Aviatrix         | 2025 |
+                                  | Aviatrix Multicloud Network Associate | Aviatrix         | 2025 |
 
 
 ---
