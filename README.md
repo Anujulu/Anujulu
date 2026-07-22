@@ -73,14 +73,12 @@ Production-ready Kubernetes deployments with Helm, Ingress, monitoring and GitOp
 
 ---
 
+| Certification                            | Provider         | Credential                                                                                       |
+| ---------------------------------------- | ---------------- | ------------------------------------------------------------------------------------------------ |
+| 🟦 Microsoft Azure Fundamentals (AZ-900) | Microsoft        | [View Credential](https://www.credly.com/badges/8b7eb338-d57a-493b-b516-9cb67b49e91a/public_url) |
+| 🟩 FinOps Certified Practitioner         | Linux Foundation | [View Credential](https://www.credly.com/badges/7da47419-676e-4a56-83ea-507337038694/)           |
+| 🟧 Aviatrix Multicloud Network Associate | Aviatrix         | [View Credential](https://www.credly.com/badges/51431d3c-b180-4282-9b44-4f8a09758beb/public_url) |
 
-                                  | Certification                         | Provider         | Date |
-
-                                  | Microsoft Azure Fundamentals (AZ-900) | Microsoft        | 2025 |
-                                                          
-                                  | FinOps Certified Practitioner         | Linux Foundation | 2025 |
-                                                          
-                                  | Aviatrix Multicloud Network Associate | Aviatrix         | 2025 |
 
 
 ---
