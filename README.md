@@ -54,10 +54,12 @@ A short description of your third project.
 
 
                                                           | Certification                         | Provider         | Date |
-| ------------------------------------- | ---------------- | ---- |
-| Microsoft Azure Fundamentals (AZ-900) | Microsoft        | 2025 |
-| FinOps Certified Practitioner         | Linux Foundation | 2025 |
-| Aviatrix Multicloud Network Associate | Aviatrix         | 2025 |
+
+                                                          | Microsoft Azure Fundamentals (AZ-900) | Microsoft        | 2025 |
+                                                          
+                                                          | FinOps Certified Practitioner         | Linux Foundation | 2025 |
+                                                          
+                                                          | Aviatrix Multicloud Network Associate | Aviatrix         | 2025 |
 
 
 ---
