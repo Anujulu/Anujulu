@@ -37,7 +37,10 @@ building real-world projects, and continuously improving my technical skills.
 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,python,bash,docker,kubernetes,terraform,azure,aws,gcp,firebase,git,github,linux,vscode" />
+  <img
+    src="https://skillicons.dev/icons?i=azure,aws,gcp,docker,kubernetes,terraform,linux,bash,github,githubactions,firebase,nextjs,react,nodejs,typescript,javascript,python,vscode,git&perline=10"
+    alt="Tech Stack"
+  />
 </p>
 
 
@@ -105,12 +108,17 @@ Production-ready Kubernetes deployments with Helm, Ingress, monitoring and GitOp
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anujulu&theme=tokyo-night"/>
 </p>
 ---
-- ✅ Build 10 real-world cloud projects
-- ✅ Contribute to Open Source
-- ✅ Earn Cloud Certifications
-- ✅ Learn Kubernetes
-- ✅ Improve Linux Skills
-- ✅ Land a Cloud Engineering Role
+✔ Build enterprise cloud platforms
+
+✔ Contribute to open-source DevOps projects
+
+✔ Earn Kubernetes certifications (CKA/CKAD)
+
+✔ Deepen expertise in Platform Engineering
+
+✔ Design scalable AI cloud infrastructure
+
+✔ Mentor aspiring Cloud Engineers
 ---
 <p align="center">
 ⭐ Thank you for visiting my profile! ⭐
