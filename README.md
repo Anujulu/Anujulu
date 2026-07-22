@@ -32,7 +32,7 @@ building real-world projects, and continuously improving my technical skills.
 
 ---
 A short description of your first project.
-[**Repository:**](https://github.com/Anujulu/project-one)
+[**Weathee-App:**](https://github.com/Anujulu/weather-app-demo)
 
 ---
 A short description of your second project.
@@ -44,7 +44,7 @@ A short description of your third project.
 
 ---
 
->                                                             # My certifications .
+                                                             # My certifications .
 
 
 | Microsoft Azure Fundamentals (AZ-900) | Microsoft | Nov 2025 | [View Credential](https://www.credly.com/badges/8b7eb338-d57a-493b-b516-9cb67b49e91a/public_url) 
