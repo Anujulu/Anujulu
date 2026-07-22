@@ -85,11 +85,17 @@ Production-ready Kubernetes deployments with Helm, Ingress, monitoring and GitOp
 
 ---
 <p align="center">
-<!-- Add badge images here -->
-<img src="images/az900.png" width="120"/>
-<img src="images/aws-cloud-practitioner.png" width="120"/>
-<img src="images/kcna.png" width="120"/>
-<img src="images/google-cloud.png" width="120"/>
+  <a href="https://www.credly.com/badges/8b7eb338-d57a-493b-b516-9cb67b49e91a/public_url" target="_blank">
+    <img src="images/az900.png" width="120" alt="Microsoft Azure Fundamentals (AZ-900)" />
+  </a>
+
+  <a href="https://www.credly.com/badges/7da47419-676e-4a56-83ea-507337038694/" target="_blank">
+    <img src="images/finops.png" width="120" alt="FinOps Certified Practitioner" />
+  </a>
+
+  <a href="https://www.credly.com/badges/51431d3c-b180-4282-9b44-4f8a09758beb/public_url" target="_blank">
+    <img src="images/aviatrix.png" width="120" alt="Aviatrix Multicloud Network Associate" />
+  </a>
 </p>
 ---
 
