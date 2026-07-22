@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Izuabueke Davidson Anujulu</h1>
 <p align="center">
-<strong>Aspiring Cloud Engineer • Software Developer • DevOps Enthusiast</strong>
+<strong>Cloud & DevOps Engineer | Azure | AWS | Google Cloud | Kubernetes | Terraform | Docker | CI/CD | Automation</strong>
 </p>
 <p align="center">
 Welcome to my GitHub profile! I'm passionate about learning new technologies,
@@ -8,13 +8,15 @@ building real-world projects, and continuously improving my technical skills.
 </p>
 
 ---
+🔭 Currently building **CareerVoxa**, an AI-powered career management platform.
 
-- 🔭 I'm currently working on **Project Name**
-- 🌱 I'm currently learning **Technology**
-- 🤝 I'm looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Programming, Cloud, Linux, or DevOps**
-- 🎯 My goal is to become a **Cloud & DevOps Engineer**
-- 📫 Reach me at **anujuludavidson@gmail.com**
+🌱 Expanding my expertise in Kubernetes, platform engineering, cloud architecture, and AI infrastructure.
+
+⚡ Passionate about automating infrastructure, improving CI/CD pipelines, and building scalable cloud-native applications.
+
+💬 Ask me about Azure, AWS, GCP, Docker, Kubernetes, Terraform, GitHub Actions, Linux, and DevOps.
+
+📫 Email: anujuludavidson@gmail.com
   
 ---
 
@@ -33,7 +35,7 @@ building real-world projects, and continuously improving my technical skills.
 
 ---
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,javascript,python,nodejs,git,github,linux,vscode,docker,aws,Azure,GCP" />
+<img src="https://skillicons.dev/icons?ihtml,css,js,ts,react,nextjs,nodejs,python,bash,docker,kubernetes,terraform,azure,aws,gcp,firebase,git,github,linux,vscode" />
 </p>
 
 ---
@@ -51,14 +53,11 @@ A short description of your third project.
 ---
 
 
-                                                           My certifications
-
----
-Microsoft Azure Fundamentals (AZ-900) | Microsoft | Nov 2025 | [View Credential](https://www.credly.com/badges/8b7eb338-d57a-493b-b516-9cb67b49e91a/public_url) 
-
-FinOps Certified Practitioner  | The Linux Foundation |  Oct 2025 | [View Credential](https://www.credly.com/badges/7da47419-676e-4a56-83ea-507337038694/) 
-
-Multicloud Network Associate | Aviatrix | Aug 2025 | [View Credential](https://www.credly.com/badges/51431d3c-b180-4282-9b44-4f8a09758beb/public_url) 
+                                                          | Certification                         | Provider         | Date |
+| ------------------------------------- | ---------------- | ---- |
+| Microsoft Azure Fundamentals (AZ-900) | Microsoft        | 2025 |
+| FinOps Certified Practitioner         | Linux Foundation | 2025 |
+| Aviatrix Multicloud Network Associate | Aviatrix         | 2025 |
 
 
 ---
@@ -69,22 +68,6 @@ Multicloud Network Associate | Aviatrix | Aug 2025 | [View Credential](https://w
 <img src="images/kcna.png" width="120"/>
 <img src="images/google-cloud.png" width="120"/>
 </p>
----
-
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-
-![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud)
-
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform)
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
-
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions)
-
 ---
 
 
